@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "PurityPath"
+rootProject.name = "Conan"
 include(":app")
