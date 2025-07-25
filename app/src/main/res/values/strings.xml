@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Conan</string>
+    <string name="accessibility_service_description">Purity Path monitors browser content to help you overcome harmful addictions by showing motivational messages when inappropriate content is detected. No personal data is collected or stored.</string>
+
+    <!-- Home Screen -->
+    <string name="daily_inspiration">Daily Inspiration</string>
+    <string name="clean_streak">Clean Streak</string>
+    <string name="current_days">Current Days</string>
+    <string name="best_streak">Best Streak</string>
+    <string name="panic_button">PANIC BUTTON - Close Distracting Apps</string>
+    <string name="educational_resources">Educational Resources</string>
+
+    <!-- Trigger Popup -->
+    <string name="stay_strong">Stay Strong!</string>
+    <string name="remember_this">Remember This</string>
+    <string name="closing_in_seconds">Closing in %d seconds...</string>
+    <string name="block_distractions_title">Block Distractions?</string>
+    <string name="block_distractions_message">Would you like us to help you by closing this app and blocking similar distractions for a while?</string>
+    <string name="yes_help_me">YES, HELP ME</string>
+    <string name="no_ill_manage">No, I\'ll manage</string>
+
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="detection_settings">Detection Settings</string>
+    <string name="smart_detection">Smart Detection</string>
+    <string name="smart_detection_subtitle">Monitor apps for inappropriate content</string>
+    <string name="blocking_strength">Blocking Strength</string>
+    <string name="notifications">Notifications</string>
+    <string name="daily_reminders">Daily Reminders</string>
+    <string name="daily_reminders_subtitle">Receive motivational notifications</string>
+    <string name="reminder_time">Reminder Time</string>
+    <string name="emergency_features">Emergency Features</string>
+    <string name="panic_button_setting">Panic Button</string>
+    <string name="panic_button_subtitle">Show emergency close button on home screen</string>
+    <string name="inspirational_content">Inspirational Content</string>
+    <string name="quote_categories">Quote Categories</string>
+    <string name="custom_messages">Custom Messages</string>
+    <string name="personal_motivational_messages">Personal motivational messages</string>
+    <string name="add_message">Add Message</string>
+    <string name="permissions">Permissions</string>
+    <string name="accessibility_service">Accessibility Service</string>
+    <string name="accessibility_required">Required for smart detection</string>
+    <string name="display_over_apps">Display Over Other Apps</string>
+    <string name="overlay_required">Required for popup alerts</string>
+    <string name="usage_statistics">Usage Statistics</string>
+    <string name="usage_required">Required for app monitoring</string>
+    <string name="language_settings">Language Settings</string>
+    <string name="language">Language</string>
+    <string name="select_language">Select Language</string>
+
+    <!-- Permission Dialogs -->
+    <string name="permission_required">Permission Required</string>
+    <string name="accessibility_permission_message">Accessibility permission is required for smart content detection. Please enable it in Settings.</string>
+    <string name="overlay_permission_message">Display over other apps permission is required for showing alerts. Please enable it in Settings.</string>
+    <string name="usage_permission_message">Usage statistics permission is required for app monitoring. Please enable it in Settings.</string>
+    <string name="notification_permission_message">Notification permission is required for sending daily reminders. Please enable it in Settings.</string>
+    <string name="go_to_settings">Go to Settings</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Common -->
+    <string name="ok">OK</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="close">Close</string>
+    <string name="enable">Enable</string>
+    <string name="disable">Disable</string>
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+    <string name="refresh">Refresh</string>
+
+    <!-- Blocking Strength -->
+    <string name="blocking_strength_low">Low</string>
+    <string name="blocking_strength_high">High</string>
+
+    <!-- Quote Categories -->
+
+    <string name="quote_category_quran" translatable="false">Quran</string>
+    <string name="quote_category_motivation" translatable="false">Motivation</string>
+    <string name="quote_category_strength" translatable="false">Strength</string>
+    <string name="quote_category_success" translatable="false">Success</string>
+    <string name="quote_category_hadith" translatable="false">Hadith</string>
+    <string name="quote_category_custom" translatable="false">Custom</string>
+
+    <!-- Language Dialog -->
+    <string name="language_dialog_title">Select Language</string>
+    <string name="language_english">English</string>
+    <string name="language_arabic">العربية</string>
+</resources>

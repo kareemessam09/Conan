@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">كونان</string>
+    <string name="accessibility_service_description">يراقب مسار الطهارة محتوى المتصفح لمساعدتك على التغلب على الإدمان الضار من خلال إظهار رسائل تحفيزية عند اكتشاف محتوى غير مناسب. لا يتم جمع أو تخزين أي بيانات شخصية.</string>
+
+    <!-- Home Screen -->
+    <string name="daily_inspiration">الإلهام اليومي</string>
+    <string name="clean_streak">الفترة النظيفة</string>
+    <string name="current_days">الأيام الحالية</string>
+    <string name="best_streak">أفضل فترة</string>
+    <string name="panic_button">زر الطوارئ - إغلاق التطبيقات المشتتة</string>
+    <string name="educational_resources">الموارد التعليمية</string>
+
+    <!-- Trigger Popup -->
+    <string name="stay_strong">ابق قوياً!</string>
+    <string name="remember_this">تذكر هذا</string>
+    <string name="closing_in_seconds">الإغلاق خلال %d ثانية...</string>
+    <string name="block_distractions_title">حظر المشتتات؟</string>
+    <string name="block_distractions_message">هل تريد منا مساعدتك عن طريق إغلاق هذا التطبيق وحظر المشتتات المماثلة لفترة؟</string>
+    <string name="yes_help_me">نعم، ساعدني</string>
+    <string name="no_ill_manage">لا، سأتدبر الأمر</string>
+
+    <!-- Settings -->
+    <string name="settings">الإعدادات</string>
+    <string name="detection_settings">إعدادات الكشف</string>
+    <string name="smart_detection">الكشف الذكي</string>
+    <string name="smart_detection_subtitle">مراقبة التطبيقات للمحتوى غير المناسب</string>
+    <string name="blocking_strength">قوة الحظر</string>
+    <string name="notifications">الإشعارات</string>
+    <string name="daily_reminders">التذكيرات اليومية</string>
+    <string name="daily_reminders_subtitle">تلقي إشعارات تحفيزية</string>
+    <string name="reminder_time">وقت التذكير</string>
+    <string name="emergency_features">ميزات الطوارئ</string>
+    <string name="panic_button_setting">زر الطوارئ</string>
+    <string name="panic_button_subtitle">إظهار زر الإغلاق الطارئ في الشاشة الرئيسية</string>
+    <string name="inspirational_content">المحتوى الملهم</string>
+    <string name="quote_categories">فئات الاقتباسات</string>
+    <string name="custom_messages">الرسائل المخصصة</string>
+    <string name="personal_motivational_messages">رسائل تحفيزية شخصية</string>
+    <string name="add_message">إضافة رسالة</string>
+    <string name="permissions">الأذونات</string>
+    <string name="accessibility_service">خدمة إمكانية الوصول</string>
+    <string name="accessibility_required">مطلوب للكشف الذكي</string>
+    <string name="display_over_apps">العرض فوق التطبيقات الأخرى</string>
+    <string name="overlay_required">مطلوب لتنبيهات النوافذ المنبثقة</string>
+    <string name="usage_statistics">إحصائيات الاستخدام</string>
+    <string name="usage_required">مطلوب لمراقبة التطبيقات</string>
+    <string name="language_settings">إعدادات اللغة</string>
+    <string name="language">اللغة</string>
+    <string name="select_language">اختر اللغة</string>
+
+    <!-- Permission Dialogs -->
+    <string name="permission_required">إذن مطلوب</string>
+    <string name="accessibility_permission_message">إذن إمكانية الوصول مطلوب للكشف الذكي عن المحتوى. يرجى تمكينه في الإعدادات.</string>
+    <string name="overlay_permission_message">إذن العرض فوق التطبيقات الأخرى مطلوب لعرض التنبيهات. يرجى تمكينه في الإعدادات.</string>
+    <string name="usage_permission_message">إذن إحصائيات الاستخدام مطلوب لمراقبة التطبيقات. يرجى تمكينه في الإعدادات.</string>
+    <string name="notification_permission_message">إذن الإشعارات مطلوب لإرسال التذكيرات اليومية. يرجى تمكينه في الإعدادات.</string>
+    <string name="go_to_settings">الانتقال إلى الإعدادات</string>
+    <string name="cancel">إلغاء</string>
+
+    <!-- Common -->
+    <string name="ok">موافق</string>
+    <string name="save">حفظ</string>
+    <string name="delete">حذف</string>
+    <string name="edit">تعديل</string>
+    <string name="close">إغلاق</string>
+    <string name="enable">تمكين</string>
+    <string name="disable">تعطيل</string>
+    <string name="enabled">ممكن</string>
+    <string name="disabled">معطل</string>
+    <string name="refresh">تحديث</string>
+
+    <!-- Blocking Strength -->
+    <string name="blocking_strength_low">منخفض</string>
+    <string name="blocking_strength_high">عالي</string>
+
+
+
+    <!-- Language Dialog -->
+    <string name="language_dialog_title">اختر اللغة</string>
+    <string name="language_english">English</string>
+    <string name="language_arabic">العربية</string>
+</resources>
